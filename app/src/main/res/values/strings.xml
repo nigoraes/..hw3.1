@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asanbekov_3_1</string>
+    <string name="email" />
+    <string name="theme" />
+    <string name="intents">intents</string>
+    <string name="next">Next</string>
+    <string name="send">Send</string>
+
+
+</resources>

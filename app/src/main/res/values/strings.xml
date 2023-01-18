@@ -1,9 +1,8 @@
 <resources>
-    <string name="app_name">Asanbekov_3_1</string>
-    <string name="email" />
-    <string name="theme" />
-    <string name="intents">intents</string>
-    <string name="next">Next</string>
+    <string name="app_name">esenbekova_nigora_hw3.1</string>
+    <string name="email" >"Введите свою почту"</string>
+    <string name="theme" >"Тема"</string>
+    <string name="sms">СМС</string>
     <string name="send">Send</string>
 
 

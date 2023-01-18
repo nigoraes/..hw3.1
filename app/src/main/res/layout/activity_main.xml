@@ -8,6 +8,8 @@
 
 
     <EditText
+        android:textColor="@color/grey"
+        android:text="@string/sms"
         android:id="@+id/ed_massage"
         android:layout_width="326dp"
         android:layout_height="51dp"
@@ -19,6 +21,7 @@
 
 
     <EditText
+        android:textColor="@color/grey"
         android:id="@+id/ed_theme"
         android:layout_width="326dp"
         android:layout_height="51dp"
@@ -31,6 +34,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
+        android:textColor="@color/grey"
         android:id="@+id/ed_email"
         android:layout_width="326dp"
         android:layout_height="51dp"
